@@ -7,4 +7,3 @@ This project involves the development of a deep learning model using U-Net archi
 ## Dataset
 
 - **Dataset Source**: Drive Dataset
-- **Data Preprocessing**: [e.g., resizing, normalization]
